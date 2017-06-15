@@ -5,4 +5,4 @@ It is a very simple PHP script that reads the locally-stored oui.txt vendor list
 The newest list can always be found at [standards-oui.ieee.org/oui.txt](http://standards-oui.ieee.org/oui.txt).
 
 ## Usage
-There is a sample css file included as well as a sample oui.txt.
+There is a sample mac.css file included as well.
